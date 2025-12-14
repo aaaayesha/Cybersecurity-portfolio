@@ -23,4 +23,3 @@ This finding indicates that the DNS server was either not running a DNS service 
 A likely cause of the incident is a DNS service outage or a firewall misconfiguration blocking UDP traffic on port 53. Another potential cause is a denial-of-service condition affecting the DNS server, though further investigation would be required to confirm malicious activity.
 
 The next steps include verifying DNS service availability, reviewing firewall rules affecting UDP port 53, and restoring DNS functionality to reestablish access to the website.
-
