@@ -17,5 +17,13 @@ The purpose of the audit was to assess the organization’s current security pos
 - PCI DSS
 - GDPR
 
+## Control Categories
+Security controls in this audit were evaluated across three categories:
+- Administrative/Managerial controls
+- Technical controls
+- Physical/Operational controls
+
+Each control was assessed based on its purpose and type (preventative, detective, corrective, or deterrent) to support defense-in-depth and risk reduction.
+
 ## Disclaimer
 This project is based on a fictional scenario and is intended for educational and portfolio purposes only.
