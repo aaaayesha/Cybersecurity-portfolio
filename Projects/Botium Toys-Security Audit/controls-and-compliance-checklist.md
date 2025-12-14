@@ -1,3 +1,5 @@
+This checklist documents the current-state assessment of security controls and compliance practices based on the Botium Toys risk assessment and asset inventory.
+
 Controls and Compliance Checklist
 
 Organization: Botium Toys (Fictional)
