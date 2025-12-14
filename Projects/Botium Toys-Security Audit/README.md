@@ -25,5 +25,10 @@ Security controls in this audit were evaluated across three categories:
 
 Each control was assessed based on its purpose and type (preventative, detective, corrective, or deterrent) to support defense-in-depth and risk reduction.
 
+## Key Deliverables
+- Controls and compliance checklist
+- Risk assessment summary
+- Security recommendations and remediation guidance
+
 ## Disclaimer
 This project is based on a fictional scenario and is intended for educational and portfolio purposes only.
