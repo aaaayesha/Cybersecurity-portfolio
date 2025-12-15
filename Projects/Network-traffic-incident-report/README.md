@@ -27,5 +27,11 @@ The DNS service on the destination server was unavailable or UDP port 53 was blo
 - Incident documentation
 - Technical reporting
 
+## Evidence
+
+This project includes representative tcpdump log output demonstrating
+DNS queries sent to UDP port 53 and corresponding ICMP error messages
+indicating that the port was unreachable.
+
 ## Disclaimer
 This project is based on a simulated incident scenario and is intended for educational and portfolio demonstration purposes.
