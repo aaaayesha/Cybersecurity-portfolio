@@ -1,6 +1,11 @@
+Summary of Wireshark TCP/HTTP Log Evidence:
 
-Repeated TCP SYN packets from 203.0.113.0 to 192.0.2.1:443
-Incomplete TCP handshakes
-HTTP 504 Gateway Time-out errors
-RST, ACK packets sent to legitimate clients
+- Repeated TCP SYN packets from a single source IP (203.0.113.0)
+- SYN packets sent to web server on port 443
+- Incomplete TCP three-way handshakes
+- HTTP 504 Gateway Time-out errors observed
+- RST, ACK packets sent to legitimate clients
+- Server eventually stopped responding to legitimate traffic
 
+Conclusion:
+Traffic patterns are consistent with a TCP SYN flood denial-of-service attack.
